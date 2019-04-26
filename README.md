@@ -1,2 +1,2 @@
 # rosalind-go
-lerning golang
+learning go
